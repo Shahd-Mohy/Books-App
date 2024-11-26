@@ -1,5 +1,5 @@
-import 'package:books_app/features/home/data/presentation/view_models/views/book_details_view.dart';
-import 'package:books_app/features/home/data/presentation/view_models/views/home_view.dart';
+import 'package:books_app/features/home/presentation/view_models/views/book_details_view.dart';
+import 'package:books_app/features/home/presentation/view_models/views/home_view.dart';
 import 'package:books_app/features/searsh/presentation/views/search_view.dart';
 import 'package:books_app/features/searsh/presentation/views/widgets/saerch_view_body.dart';
 import 'package:books_app/features/splash/presentation/views/splash_view.dart';

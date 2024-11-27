@@ -1,5 +1,5 @@
 import 'package:books_app/core/utils/styels.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/best_seller_item.dart';
+import 'package:books_app/features/home/presentation/views/widgets/best_seller_item.dart';
 import 'package:books_app/features/searsh/presentation/views/widgets/custom_search_text_field.dart';
 import 'package:flutter/material.dart';
 

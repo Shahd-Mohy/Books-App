@@ -1,9 +1,9 @@
 import 'package:books_app/core/utils/styels.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/book_action.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/book_del_app_bar.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/book_rating.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/custom_book_image.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/similar_books_list_view.dart';
+import 'package:books_app/features/home/presentation/views/widgets/book_action.dart';
+import 'package:books_app/features/home/presentation/views/widgets/book_del_app_bar.dart';
+import 'package:books_app/features/home/presentation/views/widgets/book_rating.dart';
+import 'package:books_app/features/home/presentation/views/widgets/custom_book_image.dart';
+import 'package:books_app/features/home/presentation/views/widgets/similar_books_list_view.dart';
 import 'package:flutter/material.dart';
 
 class BookDetailsViewBody extends StatelessWidget {

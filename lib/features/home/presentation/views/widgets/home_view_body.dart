@@ -1,7 +1,7 @@
 import 'package:books_app/core/utils/styels.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/best_seller_list_view.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/custom_app_bar.dart';
-import 'package:books_app/features/home/presentation/view_models/views/widgets/featured_books_list_view.dart';
+import 'package:books_app/features/home/presentation/views/widgets/best_seller_list_view.dart';
+import 'package:books_app/features/home/presentation/views/widgets/custom_app_bar.dart';
+import 'package:books_app/features/home/presentation/views/widgets/featured_books_list_view.dart';
 import 'package:flutter/material.dart';
 
 class HomeViewBody extends StatelessWidget {

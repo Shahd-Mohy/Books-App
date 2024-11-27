@@ -2,11 +2,16 @@ import 'package:books_app/features/home/presentation/views/widgets/home_view_bod
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-class HomeView extends StatelessWidget {
+class HomeView extends StatefulWidget {
   const HomeView({super.key});
 
   @override
+  State<HomeView> createState() => _HomeViewState();
+}
+
+class _HomeViewState extends State<HomeView> {
+  @override
   Widget build(BuildContext context) {
-    return Scaffold(body: HomeViewBody(),);
+    return const Scaffold(body: HomeViewBody(),);
   }
 }

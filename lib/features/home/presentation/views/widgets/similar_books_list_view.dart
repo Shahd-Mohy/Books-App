@@ -13,7 +13,7 @@ class SimilarBooksListView extends StatelessWidget {
           itemBuilder: (contex, index) {
             return Padding(
               padding: const EdgeInsets.symmetric(horizontal: 5),
-              child: CustomBookImage(),
+              child: CustomBookImage(imageUrl: 'https://techalmirah.com/wp-content/uploads/2019/10/SiteIcon.jpg',),
             );
           }),
     );

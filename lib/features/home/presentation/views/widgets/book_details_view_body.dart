@@ -26,7 +26,7 @@ class BookDetailsViewBody extends StatelessWidget {
                   ),
                   Padding(
                     padding: EdgeInsets.symmetric(horizontal: width * 0.17),
-                    child: CustomBookImage(),
+                    child: CustomBookImage(imageUrl: 'https://techalmirah.com/wp-content/uploads/2019/10/SiteIcon.jpg',),
                   ),
                   const SizedBox(
                     height: 40,
